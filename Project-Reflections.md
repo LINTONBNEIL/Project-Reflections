@@ -1,18 +1,22 @@
 # Project-Reflections
 
+- In a few sentences, explain what the project was and the scope of your work. Imagine explaining your answer to a technical recruiter or a developer who you’d potentially be interviewing with who knows nothing about Turing.
+
+The project was a test of the skills that we have been working on throughout the entirety of these last few weeks. It involved formulating a pre-project plan, thinking about possible concepts which would get our end results, and implementing them. The first portion of the project involved utilizing a Math random function which iterates through our array, and selects a single numerical value and assigns it to the array. We had to instantiate a new class, which would have values that are dynamic (and probably only needed one instance.) In hindsight we could have used default values for this, where the value could either be what is randomized OR what we made in the (make our own poster section.)
+
 # Overall 
 
-What role do you typically play on a team?
-
-In the roles for this particular project, I was dynamic. My partner and I switched off from a driver-navigator, we were tandem throughout the entire process so it put a limitation on our errors. It also helped us learn, and complete the project at a faster rate. Each time one of us had an idea, it was talked out before it was fired off in the code. 
+- What is your approach to working on a team? (In your answer, provide an example from this project)
+  
+  My approach is pretty fluid, I try to be dynamic to whatever my partner wants to implement. While we worked on the first iteration I continually asked what she would prefer to do.. Whenever we hit a road block or if their wasn't any other ideas, I kinda gave slight nudges into a direction that might give us better results. I explained my though process, and ensured we were both on the same page before continuing. 
 
 # Technical
-You can’t work out how to solve a coding problem. What do you do to find the answer? 
-
-Throughout the entire project their had been several wrenches thrown into our plans. From the start we had commited ourselves to a syntax error that eventually caught up to us in iteration 3 & 4. We were forced to back-track, and refactor a lot of code in order to devise a better plan for our future code block. When the answers were vague, we would console.log each code-block and formulate a path to our intended goal. We reached out to both our cohort and our mentors, and these resources helped immensely. They allowed us to reach our own conclusions, and eventually our code worked in the ways it should 
+- You can’t work out how to solve a coding problem. What do you do to find the answer? 
+ 
+ We didn't hit many road blocks throughout this, there had been once instance where things weren't working in the manner that we had wished but we had simply asked the other repeaters for assistance. I referred to Grant, and Irmak whenever I was stuck and then when we couldn't get the answers from them I went to my mentor. 
 
 # Reflection
 
-What is one personal/professional takeaway from this project? 
+- What is one personal/professional takeaway from this project? 
 
-With any project you need to take time to enjoy the moment you are in, instead of stressing about the deadline. During the entire process my partner and I were laughing and enjoying ourselves. Our overall morale was increased at each iteration even as we were drowning in questions. If were hit a blocker, we laughed about it and made jokes to lighten the overall mood before even devising a plan. In terms of personal, being slightly unprofessional with each other made each step that-much-more barable and actually enjoyable. Professionally, with a hightened morale we were able to soar through each iteration at a faster pace. It made learning new methods/concepts fun and entertaining, rather than defeating when answers weren't easily apparent. 
+After having done this project a second time I completely felt more comfortable. Even though the product was VERY similar to what I've done before, I was more capable to explain what was happening throughout each iteration. I could tell the person what each function specifically did, and was able to get my partner to understand as well. I held back a little bit from wanting to divert to testing out more difficult (foreign) concepts in this project. 
